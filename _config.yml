@@ -1,0 +1,28 @@
+name: BlackSmithPhoto
+favicon: null
+layout_spectrum: 0.4042615576181561
+typography_spectrum: 0.9691038150340319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4944089809432626
+  lightness: 0.4418638339266181
+  saturation: 0.04015875584445894
+  rhythmicContrast: 0.7087652338668704
+purpose: []
